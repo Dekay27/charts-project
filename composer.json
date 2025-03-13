@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],
+  "require": {
+    "npm-asset/chart.js": "^4.4.1"
+  }
+}
